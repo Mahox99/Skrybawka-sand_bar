@@ -1,11 +1,12 @@
 # Skrybawka-sand_bar
 "Sound bar" application in Unity
 
-Application which can playing sounds from popular film, projected for Android platform.
-Main feature:
+Application type "Sound-bar" allows play sounds from
+popular film about Gauls. App. designed for Android platform.
+Main features:
 
-- Aplication is conected to Google Firebase the purpose of testing the number of application sessions by users. 
-- Simple in using for users mobile application.
+- Conection to Google Firebase in order to test the number ofapplication sessions by users.
+- Simple to use for mobile-application users.
 
 PL
 
